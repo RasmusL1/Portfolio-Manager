@@ -1,0 +1,5 @@
+https://www.finanzen.net/index/dax/s&p_500
+https://www.finanzen.net/index/mdax/werte
+https://www.finanzen.net/index/sdax/werte
+https://www.finanzen.net/index/dax/40-werte
+https://www.finanzen.net/index/euro_stoxx_50
